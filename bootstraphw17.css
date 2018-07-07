@@ -1,0 +1,69 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+img{
+ width: 100%;
+}
+
+.col-6{
+    padding: 0;
+}
+
+.col-3{
+    padding: 0;
+}
+
+/*.intro{
+    background: #2c2c2c;
+    padding: 1em;
+    color: rgb(243, 243, 243);
+    text-align: center;
+}*/
+
+.banner1{
+    background: #0094b9;
+    padding: 0;
+}
+
+.banner1 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 6em;
+    font-weight: 800;
+    color: rgb(243, 243, 243);
+}
+
+.navbar{
+    background: transparent;
+    /* background: #0094b9; */
+    justify-content: left;
+    padding-left: 8%;
+}
+
+.splitbannercaption{
+    background: lightgreen;
+}
+
+.bannercaption{
+    padding: 15% 8% 0 8%;
+}
+
+.btn{
+    background: #0094b9;
+}
+
+.footer{
+    background: #2c2c2c;
+    color: rgb(243, 243, 243);
+    padding: 3em 0 2em 0;
+}
+
+.footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
